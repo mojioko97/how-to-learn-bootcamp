@@ -31,7 +31,7 @@ padding: 0;
   position: absolute;
   top: 38px;
   left: 64px;
-  background-image: url(../images/logo_place_header.svg)
+  background-image: url(../images/logo_place_header.svg);
 }
 
 .header__title {
@@ -52,7 +52,7 @@ padding: 0;
   line-height: 25px;
   font-weight: normal;
   z-index: 1;
-  width: 388px
+  width: 388px;
 }
 
 .link{
