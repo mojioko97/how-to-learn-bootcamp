@@ -1,0 +1,7 @@
+.video__iframes {
+    display: flex;
+    margin-top: -10px;
+    column-gap: 20px;
+    overflow: visible;
+    height: 256px;
+  }
